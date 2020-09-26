@@ -1,0 +1,36 @@
+.num{
+    border-radius:15%;
+    width:20%;
+    height:15vh;
+}
+h1{
+    font-weight: bold;
+    font-size:2rem;
+    color:green;
+}
+body{
+    text-align: center;
+}
+*{
+    margin:0;
+    padding:0;
+
+}
+#clear{
+    color:white;
+
+}
+.nav-link{
+    margin-right:0%;
+    text-align: center;
+    justify-items: center;
+}
+.jumb{
+    background-color: grey;
+    color: honeydew;
+    font-size:4em;
+}
+.display-4{
+    color:white;
+    font-weight: bold;
+}
